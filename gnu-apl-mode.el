@@ -4,8 +4,9 @@
 
 ;; Author: Elias Mårtenson <lokedhs@gmail.com>
 ;; Version: 1.5.1
-;; Keywords: languages
-;; URL: http://www.gnu.org/software/apl/
+;; Package-Requires: ((emacs "27"))
+;; Keywords: languages apl
+;; URL: https://github.com/lokedhs/gnu-apl-mode
 
 ;;; Commentary:
 
